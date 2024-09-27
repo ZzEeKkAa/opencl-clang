@@ -10,8 +10,6 @@ Source code in this repo can be built in different manners:
 * in-tree as an LLVM project
 * out-of-tree using pre-built LLVM
 
-Dummy change!
-
 ### In-tree build
 
 Before the build all dependencies must be downloaded and laid out as follows:
